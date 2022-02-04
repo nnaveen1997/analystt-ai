@@ -1,2 +1,2 @@
 # analystt-ai
-Hiring assignment
+Rental services
